@@ -1,0 +1,5 @@
+node_modules/
+notification_app_fe/node_modules/
+.env
+.DS_Store
+build/
